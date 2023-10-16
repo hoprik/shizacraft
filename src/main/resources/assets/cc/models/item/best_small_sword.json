@@ -1,0 +1,54 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "cc:item/best_small_sword",
+		"particle": "cc:item/best_small_sword"
+	},
+	"elements": [
+		{
+			"from": [0.75, 0, 0],
+			"to": [1, 5, 5],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 10], "texture": "#0"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 10], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [8, 0, 10, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 10], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-29, 0, 0],
+			"translation": [7, 9.5, 4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-17, 0, 0],
+			"translation": [-6.75, 9.25, 5.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-100, 0, 0],
+			"translation": [13, 5.25, -8.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-100, 0, 0],
+			"translation": [-0.75, 5.25, -8.25]
+		},
+		"ground": {
+			"translation": [8, 4.5, 6.25]
+		},
+		"gui": {
+			"rotation": [0, 90, 0],
+			"translation": [5.75, 5.5, 0],
+			"scale": [4, 1, 1]
+		},
+		"head": {
+			"translation": [7.5, 7, 4.25]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [6.25, 6.25, -7]
+		}
+	}
+}

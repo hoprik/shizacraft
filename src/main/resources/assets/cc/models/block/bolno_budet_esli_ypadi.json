@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "cc:item/bolno_budet_esli_ypadit",
+		"particle": "cc:item/bolno_budet_esli_ypadit"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 3],
+			"to": [16, 6, 13],
+			"faces": {
+				"north": {"uv": [0, 3, 16, 12], "texture": "#0"},
+				"east": {"uv": [0, 3, 16, 12], "texture": "#0"},
+				"south": {"uv": [0, 3, 16, 12], "texture": "#0"},
+				"west": {"uv": [0, 3, 16, 12], "texture": "#0"},
+				"up": {"uv": [0, 3, 16, 12], "texture": "#0"},
+				"down": {"uv": [0, 3, 16, 12], "texture": "#0"}
+			}
+		}
+	]
+}

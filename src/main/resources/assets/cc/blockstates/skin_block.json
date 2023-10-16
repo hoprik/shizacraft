@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=east": { "model": "cc:block/skin_block","y": 90 },
+        "facing=north": { "model": "cc:block/skin_block" },
+        "facing=south": { "model": "cc:block/skin_block","y": 180 },
+        "facing=west": { "model": "cc:block/skin_block","y": 270 },
+        "facing=up": { "model": "cc:block/skin_block","y": 0 },
+        "facing=down": { "model": "cc:block/skin_block","y": 180 }
+    }
+}

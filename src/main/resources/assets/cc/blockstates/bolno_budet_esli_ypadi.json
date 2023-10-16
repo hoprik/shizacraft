@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=east": { "model": "cc:block/bolno_budet_esli_ypadi","y": 90 },
+        "facing=north": { "model": "cc:block/bolno_budet_esli_ypadi" },
+        "facing=south": { "model": "cc:block/bolno_budet_esli_ypadi","y": 180 },
+        "facing=west": { "model": "cc:block/bolno_budet_esli_ypadi","y": 270 },
+        "facing=up": { "model": "cc:block/bolno_budet_esli_ypadi","y": 0 },
+        "facing=down": { "model": "cc:block/bolno_budet_esli_ypadi","y": 180 }
+    }
+}

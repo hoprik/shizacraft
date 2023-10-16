@@ -1,0 +1,64 @@
+{
+  "gimnrossin": {
+    "sounds": [
+      {
+        "name": "cc:gimnrossi",
+        "stream": true
+      }
+    ]
+  },
+  "gimnrossinlast": {
+    "sounds": [
+      {
+        "name": "cc:gimnrossinlast",
+        "stream": true
+      }
+    ]
+  },
+  "oplata_info_true": {
+    "sounds":[
+        "cc:payment_succes"
+    ]
+  },
+  "oplata_info_false": {
+    "sounds":[
+      "cc:payment_failed"
+    ]
+  },
+  "amogus": {
+  "sounds":[
+    "cc:amogus"
+  ]
+},
+  "short": {
+    "sounds":[
+      "cc:short"
+    ]
+  },
+
+  "gimngermany": {
+    "sounds": [
+      {
+        "name": "cc:gimngermany",
+        "stream": true
+      }
+    ]
+  },
+
+  "gimnykraina": {
+    "sounds": [
+      {
+        "name": "cc:gimnykraina",
+        "stream": true
+      }
+    ]
+  },
+  "otherside": {
+    "sounds": [
+      {
+        "name": "cc:otherside",
+        "stream": true
+      }
+    ]
+  }
+}

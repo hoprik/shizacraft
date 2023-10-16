@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cc:bolno_budet_esli_ypadit"
+    }
+  ],
+  "result": {
+    "item": "cc:bolno_budet_esli_ypadi",
+    "count": 1
+  }
+}
